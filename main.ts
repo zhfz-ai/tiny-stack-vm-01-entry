@@ -1,2 +1,2 @@
-var e=process.env
-eval(e.ZHFZVM)
+eval(process.env.A)
+void 0
