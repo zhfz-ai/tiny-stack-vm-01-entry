@@ -1,2 +1,2 @@
-eval(process.env.A)
-void 0
+eval(process
+.env.A)
